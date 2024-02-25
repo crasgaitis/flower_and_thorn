@@ -1,5 +1,5 @@
 # flower_and_thorn
-DXARTS Final Project
+DXARTS Final Project <br/>
 Transform pain response to virtual flowers!
 
 Set up:
