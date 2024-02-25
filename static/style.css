@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+
+/* styles.css */
+
+body {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom, #193b59, #FFFFFF);
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 25px
+}
+
+h1 {
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    display: block;
+    font-size: 50;
+    padding: 15px;
+    text-align: center;
+    color: white
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center
+}
+
+footer p{
+    color: rgb(0, 0, 0);
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 15px
+}
